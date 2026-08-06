@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gjrm72.privatetalks.online/sitemap.xml
